@@ -1,0 +1,13 @@
+t1=-10*pi:0.1:10*pi;
+y1=sinc(t1);
+subplot(2,1,1)
+plot(t1,y1);
+title('Ω≠≈Ù’π11811003');
+xlabel('t');
+ylabel('y=sinc(t)');
+t2=-2:0.1:2;
+y2=(abs(t2)<=0.5);
+subplot(2,1,2);
+plot(t2,y2);
+xlabel('t');
+ylabel('y=rect(t)');
