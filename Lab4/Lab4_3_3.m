@@ -1,0 +1,10 @@
+N = 512
+n = 0:N-1;
+x=cos(2*pi*n/10);
+B=IDFTmatrix(N);
+t1=cputime;
+X=x*B;
+cost1=cputime-t1
+t2=cputime;
+X=DFTsum(x);
+cost2=cputime-t2
