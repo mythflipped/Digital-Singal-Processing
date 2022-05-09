@@ -1,1 +1,1 @@
-
+The two weeks of the laboratory covered some basic examples of FIR and IIR filters, and then introduced the concepts of filter design. The first laboratory covers some basic examples of FIR and IIR filters, and then introduces the concepts of FIR filter design. Systematic methods of designing both FIR and IIR filters are followed. The second week will cover more systematic methods of designing FIR filters.
