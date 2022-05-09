@@ -1,0 +1,3 @@
+- （a）	The purpose of this lab is to illustrate the properties of continuous and discrete-time signals using digital computers and the Matlab software environment 
+- （b）	Show that continuous-time signals may be processed by first approximating them by discrete-time signals using a process known as sampling
+- （c）	Illustrate the process of sampling, and demonstrate the importance of the sampling interval to the precision of numerical computations.
